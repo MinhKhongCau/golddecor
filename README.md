@@ -1,5 +1,5 @@
-Project front-end
-\nUse JavaScript + Bootstrap
-Template in website
-\nTime: 2 month.
-\nTime of complete: 2023
+Project front-end <br />
+Use JavaScript + Bootstrap <br />
+Template in website <br />
+Time: 2 month. <br />
+Time of complete: 2023 <br />
